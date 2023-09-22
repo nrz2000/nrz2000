@@ -9,7 +9,7 @@
     <img align="center" src="https://komarev.com/ghpvc/?username=nzinovyev19&label=Profile%20views&color=0e75b6&style=flat" alt="nzinovyev19" />
   </p>
   
-  <h1>Hi there, I am <a href="https://github.com/nzinovyev19">Nikita</a></h1>
+  <h1>Hi there, I am Nikita</h1>
   
   <p>
     <a>
