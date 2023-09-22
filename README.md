@@ -9,7 +9,7 @@
     <img align="center" src="https://komarev.com/ghpvc/?username=nzinovyev19&label=Profile%20views&color=0e75b6&style=flat" alt="nzinovyev19" />
   </p>
   
-  <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">Hi there, I am <a href="https://github.com/nzin">Nikita</a></h1>
+  <h1>Hi there, I am <a href="https://github.com/nzinovyev19">Nikita</a></h1>
   
   <p>
     <a>
@@ -17,9 +17,11 @@
     </a>
   </p>
 
+  <!--
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nzinovyev19&" alt="nzinovyev19" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nzinovyev19" alt="nzinovyev19" />
   </p>
+  -->
 
   <!--
   <p>
